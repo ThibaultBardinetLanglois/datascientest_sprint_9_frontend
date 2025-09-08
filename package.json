@@ -16,6 +16,8 @@
   },
   "devDependencies": {
     "@eslint/js": "^9.33.0",
+    "@sentry/react": "^10.10.0",
+    "@sentry/vite-plugin": "^4.3.0",
     "@types/react": "^19.1.10",
     "@types/react-dom": "^19.1.7",
     "@vitejs/plugin-react": "^5.0.0",
